@@ -23,3 +23,7 @@ Step 3: Click on 2-Step Verification again, and scroll to the bottom.
 
 Step 4: Add a port number by changing your code to this:       
 smtplib.SMTP("smtp.gmail.com", port=587)
+
+Enjoy! And please do let me know if you have any comments, constructive criticism, and/or bug reports.
+## Author
+## Arnold Cobo
